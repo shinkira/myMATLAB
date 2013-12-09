@@ -1,7 +1,5 @@
 function info = analyzeFR790(info,id,S)
 
-% I added this comment.
-
 % Trial Matrix (TM)
 % 1: reward-assigned target (1:left, 2:right)
 % 2: monkey's choice direction (1:left, 2:right)
